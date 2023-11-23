@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: rgb(133, 187, 235);
+}
+
+#project {
+  background-color: rgb(133, 187, 235);
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  right: 0;
+}
